@@ -1,0 +1,13 @@
+body{
+    background-color:antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    text-align: center;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman';
+}
+
+img{
+    width: 350px;
+}

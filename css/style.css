@@ -11,3 +11,8 @@ h1{
 img{
     width: 350px;
 }
+.comida{
+    float:right;
+    background-color:darksalmon;
+    border-radius: 60px;
+}
